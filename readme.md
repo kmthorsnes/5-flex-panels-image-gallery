@@ -1,6 +1,6 @@
 # Flex panels
 
-CSS and JS Exercises. Transition challenge - make text show and hide. Using event listener.
+CSS and JS Exercises. Transition challenge - make text show and hide using event listener.
 5th challenge of the #JavaScript30 course.
 
 ## Technology
